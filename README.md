@@ -49,7 +49,7 @@ I also build and maintain web applications as a freelancer, including **Lume** (
 ### 📊 Statistics
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus2henrique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matheus2henrique&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&hide_rank=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus2henrique&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=10" alt="Top Languages" />
 </p>
 
